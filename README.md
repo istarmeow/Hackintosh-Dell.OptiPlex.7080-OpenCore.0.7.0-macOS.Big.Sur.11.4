@@ -41,12 +41,6 @@ Dell.OptiPlex.7080-OpenCore.0.7.0-macOS.Big.Sur.11.4
 
 各机型键值
 
-- Dell OptiPlex 7050
-    - DVMT to 64M：`setup_var 0x795 0x02`
-    - Disable CFG lock：`setup_var 0x4ED 0x00`
-- Dell OptiPlex 7060
-    - DVMT to 64M：`setup_var 0x8DC 0x02`
-    - Disable CFG lock：`setup_var 0x5BE 0x00`
 - Dell OptiPlex 7080、Dell ChengMing 3991
     - DVMT to 64M：`setup_var 0xF5 0x02`
     - Disable CFG lock：`setup_var 0x3E 0x00`
