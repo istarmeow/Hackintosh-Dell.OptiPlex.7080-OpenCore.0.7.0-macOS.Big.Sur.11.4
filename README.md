@@ -11,7 +11,6 @@ Dell.OptiPlex.7080-OpenCore.0.7.0-macOS.Big.Sur.11.4
 | Disk     | Micron 2300 NVMe 512GB                                                              |
 | OpenCore | OpenCore 0.6.9 Debug                                                                |
 | Dmg      | Install.macOS.Big.Sur.11.4(20F71).with.OpenCore.0.6.9.and.Clover.r5135.and.WEPE.dmg |
-| Software | IM、Chrome、VS Code、SmartSVN、Office2016、Xcode12.4、VNC Server                      |
 
 
 
